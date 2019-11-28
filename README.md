@@ -1,8 +1,8 @@
 # Game Of Life
-### on ruby
+### ruby version
 
-Настало время и мне запилить свою версию :)
-
-Для запуска игры запускаем **game_of_life.rb** и далее выбираем что хотим.
+```bash
+  ruby ./game_of_life.rb
+```
 
 ![gif](game_of_life.gif)
